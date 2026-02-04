@@ -1,3 +1,6 @@
 oracle
 SqlServer 
-SQL
+MariaB
+MySQL
+MongoDB
+Redis
